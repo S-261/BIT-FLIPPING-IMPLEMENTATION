@@ -1,7 +1,7 @@
 Output:
-The key size 10 \n
-Number of parity check equation 4 \n
-Maximum number of iterations reached. LDPC Reconciliation incomplete. \n
+The key size 10 
+Number of parity check equation 4 
+Maximum number of iterations reached. LDPC Reconciliation incomplete. 
 >> error
 
 error =
